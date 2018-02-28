@@ -2,4 +2,4 @@
 Dependencies 
 1. BeautifulSoup
 2. pdfkit
-3.wkhtmltox
+3. wkhtmltox
